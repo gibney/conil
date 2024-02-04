@@ -1,0 +1,34 @@
+Title: Hotel Blanco y Verde
+----
+Street: Rosa de los Vientos, 14
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Category: Hotel
+----
+Star: 2
+----
+Rating: 8.6
+----
+Link: https://www.booking.com/hotel/es/restaurante-blanco-y-verde.html?aid=818930 
+----
+Intro: Located in the centre of Conil, this charming hotel offers a roof terrace.
+----
+Description: 
+----
+Rooms: 240
+----
+Pool: No
+----
+Location: 36.278985320289706, -6.08767366654385
+----
+Beach: 700 m
+----
+Centre: 550 m
+----

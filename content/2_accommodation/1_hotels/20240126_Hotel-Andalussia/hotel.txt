@@ -1,0 +1,37 @@
+Title: Hotel Andalussia
+----
+Street:  Calle 8 de Marzo, 6 ,
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Category: Hotel
+----
+Star: 3
+----
+Rating: 8.8
+----
+Link: https://www.booking.com/hotel/es/andalussia.html?aid=818930
+----
+Address: Avenida de la Marina, s/n, Conil de la Frontera ,11140, Cádiz, España
+----
+Intro: The new Andalussia Hotel is a modern building that recalls the different 
+styles and decorative elements from the Andalusian tradition.
+----
+Description: : The hotel has a look that is inspired by the ancient courtyard houses from Andalusia.
+----
+Rooms: 240
+----
+Pool: Yes
+----
+Location: 36.28294670544874, -6.0785431314684235
+----
+Beach: 1.7 Km
+----
+Centre: 1.2 Km
+----

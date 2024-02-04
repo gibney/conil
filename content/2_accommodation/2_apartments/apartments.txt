@@ -1,0 +1,16 @@
+Title: Apartments
+----
+Subheading: in Conil
+----
+Street:
+----
+Town:
+----
+Postcode:
+----
+Region:
+----
+Country:
+----
+Intro: This is the intro text for the apartments page.
+----

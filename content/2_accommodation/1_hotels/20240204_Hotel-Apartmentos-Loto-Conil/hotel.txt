@@ -1,0 +1,35 @@
+Title:  Apartmentos Loto Conil
+----
+Category: hotel
+----
+Star: 3
+----
+Rating: 9.1 
+----
+Link: https://www.booking.com/hotel/es/apartamentos-loto-conil.html?aid=818930
+----
+Street: Carretera 39,
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Loto Apartments in Conil is centrally located. 
+Also within walking distance you will find many excellent restaurants 
+----
+Description: 
+----
+Rooms: 28
+----
+Pool: Yes
+----
+Location: 36.28188234075541, -6.083992187400619
+----
+Beach: 950 m
+----
+Centre: 750 m
+----

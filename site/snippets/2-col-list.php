@@ -1,0 +1,29 @@
+<!-- 4 coloumn grid wrapper -->
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    <?php foreach($page->children()->listed() as $list): ?>
+        <!-- layout for each section -->
+    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
+        <a href="<?= $list->url() ?>">
+            <?= $list->image() ?>
+        </a>
+        <div class="p-5">
+            <a href="<?= $list->url() ?>">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900"> <?= $list->title() ?></h5>
+            </a>
+            <p class="mb-1 font-normal text-gray-700">
+                <?= $list->intro() ?>
+            </p>
+            <p class="mb-2 font-normal text-gray-500">
+            <?= $list->beach() ?> to the beach.<br>
+            <?= $list->centre() ?> into Conil old town.
+            </p>
+            <a href="<?= $list->url() ?>" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-orange-600 rounded-lg hover:bg-orange-600 focus:ring-4 focus:outline-none focus:ring-orange-300">
+                Check Availability
+                <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                </svg>
+            </a>
+        </div> 
+    </div>
+    <?php endforeach ?>
+</div> 

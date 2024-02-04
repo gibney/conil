@@ -1,0 +1,37 @@
+Title: Fergus Conil Park
+----
+Category: Hotel
+----
+Class: 4
+----
+Rating: 8.5
+----
+Link: https://www.booking.com/hotel/es/conil-park.html?aid=818930
+----
+Street: Playa de La Fontanilla s/n,
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Overlooking the Atlantic Ocean, next to Atalya park this hotel is set in 
+attractive gardens, it features an outdoor pool and offers both rooms and apartments.
+----
+Description: FERGUS Conil Park has simple, bright décor and air-conditioned accommodations 
+with satellite TV. Rooms have balconies, while apartments feature kitchenettes, 
+seating areas and terraces.
+----
+Rooms: 60
+----
+Pool: Yes
+----
+Location: 36.27957168302213, -6.093369889361977
+----
+Beach: 100 m
+----
+Centre: 1.1 Km
+----
