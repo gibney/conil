@@ -1,0 +1,30 @@
+Title: Estudio Boutique Boquerón
+----
+Link: https://www.booking.com/hotel/es/estudio-boutique-boqueron-conil-de-la-frontera61.en-gb.html?aid=818930
+----
+Street: Boquerón 9
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: The apartment with a terrace with sea views, a living 
+room, a TV, an equipped kitchen with a dishwasher and oven. Also a 
+bathroom with a shower.
+----
+Text: 
+----
+Bedrooms: 1
+----
+Rating: 9.5
+----
+Location: 36.27736245699775, -6.0907508894868245
+----
+Beach: 0.5 Km
+----
+Centre: 0.4 Km
+----

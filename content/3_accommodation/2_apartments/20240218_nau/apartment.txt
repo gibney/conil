@@ -1,0 +1,29 @@
+Title: NAU
+----
+Link: https://www.booking.com/hotel/es/nau.es.html?aid=818930
+----
+Street: Calle Campanillas 3
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: NAU offers free WiFi, air conditioning and household amenities such as an oven 
+and coffee machine. This property offers access to a balcony and free private parking.
+----
+Text: 
+----
+Bedrooms: 2
+----
+Rating: 9.8
+----
+Location: 36.2783779529937, -6.0908524183227755
+----
+Beach: 0.5 Km
+----
+Centre: 0.5 Km
+----

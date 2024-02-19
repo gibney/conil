@@ -1,0 +1,76 @@
+Title: Hotel Pradillo
+
+----
+
+Street: Carretera del Pradillo, s/n
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Category: Hotel
+
+----
+
+Star: 3 Star Hotel
+
+----
+
+Rating: 9.1 Rating on Booking.com
+
+----
+
+Link: https://www.booking.com/hotel/es/pradillo-conil.html?aid=818930
+
+----
+
+Address: Avenida de la Marina, s/n, Conil de la Frontera ,11140, Cádiz, España
+
+----
+
+Intro:
+
+The hotel is surrounded by extensive gardens and offers a paddle tennis 
+court and a pool with sun loungers.
+
+----
+
+Description: 
+
+----
+
+Rooms: 50
+
+----
+
+Pool: Yes
+
+----
+
+Location: 36.28965417856447, -6.091766920694046
+
+----
+
+Beach: 1.4 Km
+
+----
+
+Centre: 1.6 Km
+
+----
+
+Uuid: JW16JCLFjiBtPQwZ

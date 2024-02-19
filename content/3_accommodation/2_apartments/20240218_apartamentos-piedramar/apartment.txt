@@ -1,0 +1,33 @@
+Title: Apartamentos Piedramar
+----
+Category: Apartment
+----
+Link: https://www.booking.com/hotel/es/apartamentos-piedramar.es.html?aid=818930
+----
+Street: Calle Cordoba, 1
+----
+Town: Conil de la Frontera
+----
+Postcode: 11149
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Piedramar has a number of different apartments available in a  
+charming, quiet complex set in gardens, 200 metres from Conil’s Fuente de Gallo Beach.
+----
+Description: 
+----
+Bedrooms: various
+----
+Rating: 9.1
+----
+Location: 36.29395054765101, -6.108677482962509
+----
+Beach: 0.2 Km
+----
+Centre: 3 Km
+----
+
+

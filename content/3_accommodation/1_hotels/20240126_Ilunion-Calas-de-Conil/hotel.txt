@@ -1,0 +1,72 @@
+Title: Ilunion Calas de Conil
+
+----
+
+Category: Hotel
+
+----
+
+Star: 4 Star Hotel
+
+----
+
+Rating: 8.6 Rating on Booking.com
+
+----
+
+Link: https://www.booking.com/hotel/es/confortel-calas-de-conil.en-gb.html?aid=818930
+
+----
+
+Street: Avenida de Europa, s/n
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Intro:
+
+This hotel is quite far out of Conil in Roche - which is a complex of mainly summer 
+houses.
+
+----
+
+Description: 
+
+----
+
+Rooms: 295
+
+----
+
+Pool: Yes
+
+----
+
+Location: 36.308834772899445, -6.149069148144167
+
+----
+
+Beach: 500 m
+
+----
+
+Centre: 8.1 Km
+
+----
+
+Uuid: 3i2AM6rWojfebiQG

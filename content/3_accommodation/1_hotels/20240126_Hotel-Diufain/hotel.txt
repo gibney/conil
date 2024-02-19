@@ -1,0 +1,75 @@
+Title: Hotel Diufain
+
+----
+
+Street: Avenida Fuente Del Gallo
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Category: Hotel
+
+----
+
+Star: 3 Star Hotel
+
+----
+
+Rating: 8.9 Rating on Booking.com
+
+----
+
+Link: https://www.booking.com/hotel/es/hotel-diufain.html?aid=818930
+
+----
+
+Intro:
+
+The hotel is a typical Andalusian construction, it's is ideal for spending 
+a holiday in a family atmosphere surrounded by large green areas.
+
+----
+
+Description:
+
+The hotel is located in the countryside, just outside of Conil. From the hotel it is a short walk to wonderful beaches 
+and into Conil old town.
+
+----
+
+Rooms: 300
+
+----
+
+Pool: Yes
+
+----
+
+Location: 36.28724763753765, -6.0969929542209576
+
+----
+
+Beach: 1.1 Km
+
+----
+
+Centre: 1.9 Km
+
+----
+
+Uuid: yLE4v41kM2uhAMOA

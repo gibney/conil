@@ -1,13 +1,17 @@
-<?php snippet('layouts/layout', slots: true) ?>
+<?php snippet('layouts/layout', slots: true); ?>
 
-    <?php slot('header') ?>
-        <?php snippet('menus/menu-acc') ?>
-        <?php snippet('menus/menu-breadcrumb') ?>
-    <?php endslot()?>
+    <?php slot('header');
+    snippet('menus/menu');
+    snippet('menus/menu-acc');
+    snippet('menus/menu-breadcrumb');
+    endslot(); ?>
 
-    <?php slot('main') ?>    
-        <?php snippet('4-col-list') ?>
-    <?php endslot()?>
+    <?php slot('main'); ?>
+      <p class="my-2">
+        <?= $page->intro() ?>
+      </p>  
+        <?php snippet('layouts/houses'); ?>
+
+    <?php endslot(); ?>
     
-
-<?php endsnippet()?>
+<?php endsnippet(); ?>

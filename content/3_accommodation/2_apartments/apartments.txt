@@ -1,0 +1,17 @@
+Title: Apartments
+
+----
+
+Subheading: in Conil
+
+----
+
+Intro: There are a wide range of apartments available to rent in Conil.
+
+----
+
+Button: Apartments in Conil
+
+----
+
+Uuid: fcSfZnGxpqOTv42m

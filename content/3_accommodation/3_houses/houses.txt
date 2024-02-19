@@ -1,0 +1,17 @@
+Title: Houses
+
+----
+
+Subheading: in Conil
+
+----
+
+Intro: This is the intro text for the houses page.
+
+----
+
+Button: Houses in Conil
+
+----
+
+Uuid: pz6y1sqSfGTt6Xt6

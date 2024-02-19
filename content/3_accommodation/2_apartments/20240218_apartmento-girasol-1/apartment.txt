@@ -1,0 +1,29 @@
+Title: Apartamento Girasol-1
+----
+Link: https://www.booking.com/hotel/es/apartamento-girasol-1.es.html?aid=818930
+----
+Street: Calle Algar 16
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: An outdoor dining terrace and sea views. A a living room, TV, an 
+equipped kitchen with a dishwasher and an oven, and a bathroom with a shower. 
+----
+Text: 
+----
+Bedrooms: 1
+----
+Rating: 9.7
+----
+Location: 36.27757187296864, -6.0811380272047755
+----
+Beach:  1.6 Km
+----
+Centre:  1.2 Km
+----

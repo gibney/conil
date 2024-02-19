@@ -1,11 +1,14 @@
-<?php snippet('layouts/layout', slots: true) ?>
+<?php 
+snippet('layouts/layout', slots: true);
 
-<?php slot('header') ?>
-    <?php snippet('menus/menu-acc') ?>
-    <?php snippet('menus/menu-breadcrumb') ?>
-<?php endslot()?>
+    slot('header');
+    snippet('menus/menu');
+    snippet('menus/menu-acc');
+    snippet('menus/menu-breadcrumb');
+    endslot();
 
-<?php slot('main') ?>    
-    <?php snippet('2-col-list') ?>
-<?php endslot()?>
-<?php endsnippet()?>
+    slot('main');    
+    snippet('accommodation');
+    endslot();
+
+endsnippet();

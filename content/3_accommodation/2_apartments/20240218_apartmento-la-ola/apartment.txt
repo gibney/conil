@@ -1,0 +1,30 @@
+Title: Apartamento La Ola
+----
+Link: https://www.booking.com/hotel/es/apartamento-la-ola-conil-de-la-frontera.es.html?aid=818930
+----
+Street: Calle Nueva Primero
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Located in the centre of Conil, situated within a short distance 
+from the beach. The apartment has free WiFi, air conditioning 
+and household amenities such as a microwave and coffee machine.
+----
+Text: 
+----
+Bedrooms: 1
+----
+Rating: 9.4
+----
+Location: 36.27761184404601, -6.087745875721353
+----
+Beach: 0.5 Km
+----
+Centre: 0.2 Km
+----

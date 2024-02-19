@@ -1,5 +1,0 @@
-Title: Camping
-----
-Subheading: in the Conil area
-----
-Intro: This is the intro text for the camping page.

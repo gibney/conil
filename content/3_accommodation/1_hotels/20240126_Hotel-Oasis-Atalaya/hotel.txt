@@ -1,0 +1,76 @@
+Title: Hotel Oasis-Atalaya
+
+----
+
+Street: Camino Hijuela de Lojo s/n
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Category: Hotel
+
+----
+
+Star: 1 Star Hotel
+
+----
+
+Rating: 8.1 Rating on Booking.com
+
+----
+
+Link: https://www.booking.com/hotel/es/oasis-atalaya.html?aid=818930
+
+----
+
+Address: Avenida de la Marina, s/n, Conil de la Frontera ,11140, Cádiz, España
+
+----
+
+Intro:
+
+Hotel Oasis Atalaya offers great-value accommodation in a quiet area. Its central 
+location is ideal for both the beach and Conil old town.
+
+----
+
+Description: 
+
+----
+
+Rooms: 32
+
+----
+
+Pool: No
+
+----
+
+Location: 36.28260101217772, -6.094038462439544
+
+----
+
+Beach: 500 m
+
+----
+
+Centre: 1.2 Km
+
+----
+
+Uuid: oD1jMVBlC6s4viVt

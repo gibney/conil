@@ -1,0 +1,20 @@
+Title: Ad-2 Title
+----
+Category: Ad-2 Category
+----
+Link: https://www.booking.com/hotel/es/apartment-las-tres-piedras-conil-de-la-frontera.en-us.html?aid=818930
+----
+Street: Ad-2 Street
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Apartment Las Tres Piedras is in the best location in Conil 
+----
+Description: Ad-1 Description - Text blah, blah 
+----

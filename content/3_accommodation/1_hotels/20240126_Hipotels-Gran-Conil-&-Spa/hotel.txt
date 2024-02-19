@@ -1,0 +1,69 @@
+Title: Hipotels Gran Conil
+
+----
+
+Street: Avenida Fragata (Calle Pleamar, 2)
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Category: Hotel
+
+----
+
+Star: 4 Star Hotel
+
+----
+
+Rating: 9.1 Rating on Booking.com
+
+----
+
+Link: https://www.booking.com/hotel/es/hipotels-gran-conil.html?aid=818930
+
+----
+
+Intro: Located on the seafront at Fontanilla Beach next to Atalaya park.
+
+----
+
+Description: This 4-star spa hotel offers a sea-view outdoor pool surrounded by gardens
+
+----
+
+Rooms: 293
+
+----
+
+Pool: Yes
+
+----
+
+Location: 36.28395385371572, -6.0979795449086796
+
+----
+
+Beach: 200 m
+
+----
+
+Centre: 1.6 Km
+
+----
+
+Uuid: bOaJzlMJJubkq5NU

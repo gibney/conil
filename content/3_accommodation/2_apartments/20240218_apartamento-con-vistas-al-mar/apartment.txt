@@ -1,0 +1,30 @@
+Title: Apartamento con Vistas al Mar
+----
+Link: https://www.booking.com/hotel/es/alojamiento-laera.es.html?aid=818930
+----
+Street: Calle Carril de la Fuente 6
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: In the heart of Conil, set within a short distance of the beach. The apartament
+has free WiFi, air conditioning and household amenities such as a dishwasher and coffee 
+ machine. There is also free private parking and a 24-hour front desk.
+----
+Text: 
+----
+Bedrooms: 2
+----
+Rating: 9.4
+----
+Location: 36.274672662474686, -6.090458119534331
+----
+Beach: 0.2 Km
+----
+Centre: 0.2 Km
+----

@@ -1,0 +1,30 @@
+Title: Conil Apartment
+----
+Category: Apartment
+----
+Link: https://www.booking.com/hotel/es/conil-apartment.es.html?aid=818930
+----
+Street: Calle Ramón y Cajal Nº10, 31 
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Conil Apartment provides accommodation with sea views. a fully equipped kitchen, it also has a terrace with city views.
+----
+Description: 
+----
+Bedrooms: 2
+----
+Rating: 9.9
+----
+Location: 36.27474353583215, -6.085841317270378
+----
+Beach: 0.25 Km
+----
+Centre: 0.2 Km
+----

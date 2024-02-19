@@ -1,0 +1,29 @@
+Title: El Cariño de la Playa
+----
+Link: https://www.booking.com/hotel/es/el-carino-del-playa-conil-de-la-frontera12.en-gb.html?aid=818930
+----
+Street: Calle Las Tres Piedras, B8
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: The spacious apartment with a terrace and garden views has 2 bedrooms, a living room, TV, an equipped 
+kitchen with a dishwasher and an oven, and 1 bathroom with a walk-in shower.
+----
+Text: 
+----
+Bedrooms: 2
+----
+Rating: 9.4
+----
+Location: 36.280282519629665, -6.094849014270186
+----
+Beach:  0.7 Km
+----
+Centre:  1.1 Km
+----

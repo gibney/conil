@@ -1,5 +1,0 @@
-Title: Houses
-----
-Subheading: in Conil
-----
-Intro: This is the intro text for the houses page.
