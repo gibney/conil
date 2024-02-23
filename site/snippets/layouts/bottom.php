@@ -5,7 +5,7 @@
             <hr class="h-px my-8 bg-gray-200 border-0">
              <a class="" href="/panel">POPP008</a> 
              Conil Online &copy; <?= date('Y') ?>
-             <button class=" mb-6 rounded-lg p-3 bg-orange-600 p-4 text-white"> <a href="https://open.spotify.com/playlist/1c8Wrv5glEXPbcIlK2CiIx?si=33886eef959641d5/<?= $site->spotify() ?>">The CONIL.CO Playlist - Enjoy!</a></button>
+             <button class=" mb-6 rounded-lg p-3 bg-teal-600 p-4 text-white"> <a href="https://open.spotify.com/playlist/1c8Wrv5glEXPbcIlK2CiIx?si=33886eef959641d5/<?= $site->spotify() ?>">The CONIL.CO Playlist - Enjoy!</a></button>
 
             
         <?php endif ?>
