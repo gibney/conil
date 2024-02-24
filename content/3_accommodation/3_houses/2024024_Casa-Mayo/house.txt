@@ -1,0 +1,35 @@
+Title: Casa Mayo
+----
+Category: house
+----
+Rating: 9
+----
+Link: https://www.booking.com/hotel/es/casa-grande-villa-mayo.en-gb.html?aid=818930
+----
+Street: Diseminado Roche Viejo 696
+----
+Town: Conil de la Frontera
+----
+Postcode: 11149
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: There is a shaded outdoor eating area with barbecue 
+facilities and a private pool.
+----
+Text: The holiday home is equipped with 3 bedrooms, a fully equipped 
+kitchen with an oven and a microwave, a washing machine, and 1 bathroom 
+with a hair dryer and free toiletries. Towels and bed linen are 
+provided in the holiday home. 
+The accommodation offers a fireplace.
+----
+Bedrooms: 3
+----
+Location: 36.30676186046085, -6.1158928614495345
+----
+Beach: 1.5 Km
+----
+Centre: 5 Km
+----

@@ -1,0 +1,30 @@
+Title: 
+----
+Category: house
+----
+Rating: 
+----
+Link: 
+----
+Street: 
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: 
+----
+Text: 
+----
+Bedrooms: 
+----
+Location: 
+----
+Beach:  Km
+----
+Centre:  Km
+----

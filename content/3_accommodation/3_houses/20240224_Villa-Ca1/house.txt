@@ -1,0 +1,32 @@
+Title: Villa Ca1
+----
+Category: house
+----
+Rating: 9.3
+----
+Link: https://www.booking.com/hotel/es/villa-ca1.en-gb.html?aid=818930
+----
+Street: Diseminado Pradillo, 345
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: The holiday home comes with 4 bedrooms, a 
+fully equipped kitchen with a dishwasher and a microwave, a washing machine.
+There is also a pool and a BBQ and covered terrace. There is a fireplace for use in the cooler months.
+----
+Text: In the warmer months, you can make use of the barbecue facilities and dine on the private patio.
+----
+Bedrooms: 4
+----
+Location: 36.29055867406984, -6.085366804081293
+----
+Beach: 2.3 Km
+----
+Centre: 1.9 Km
+----

@@ -1,0 +1,35 @@
+Title: Familia Amaya Gonzalez
+----
+Category: house
+----
+Rating: 9.8
+----
+Link: https://www.booking.com/hotel/es/familia-amaya-gonzalez.en-gb.html?aid=818930
+----
+Street: Carril de Esteban
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: This traditional Andalucian house has a pool and a shaded outdoor 
+eating area and barbecue. 
+----
+Text: The spacious holiday home features 3 bedrooms, a TV 
+with satellite channels, a fully equipped kitchen with an o
+ven and a microwave, a washing machine, and 1 bathroom with a bath. Towels 
+and bed linen are provided in the holiday home. 
+The accommodation offers a fireplace.
+----
+Bedrooms: 3
+----
+Location: 36.32790666869475, -6.079263906770493
+----
+Beach: 6.3 Km
+----
+Centre: 6.4 Km
+----

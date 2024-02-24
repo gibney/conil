@@ -1,0 +1,37 @@
+Title: Hotel Apartamentos Hamus
+----
+Category: Apartment
+----
+Rating: 9.5
+----
+Link: https://www.booking.com/hotel/es/hamus.en-gb.html?aid=818930
+----
+Street: Avenida del Rio
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: This is a recently renovated aparthotel, which provides four different room types
+of air-conditioned rooms with free WiFi and private parking. It has a 24-hour front desk. 
+The aparthotel features family rooms and facilities for disabled guests.
+----
+Text: The aparthotel provides guests with a terrace, sea views, a seating 
+area, cable TV, a fully equipped kitchen with a dishwasher and a 
+microwave, and a private bathroom with walk-in shower and a hair dryer. 
+A toaster, a fridge and stovetop are also provided, as well as a 
+coffee machine and a kettle. 
+At the aparthotel, each unit is equipped with bed linen and towels
+----
+Bedrooms: 2
+----
+Location: 36.272022312811636, -6.0877105558797915
+----
+Beach: 100 m
+----
+Centre: 250 m
+----

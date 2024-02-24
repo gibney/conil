@@ -1,0 +1,29 @@
+{
+    "name": "getkirby/geo",
+    "description": "Kirby Geo",
+    "keywords": ["kirby", "cms", "geo", "location", "plugin"],
+    "license": "MIT",
+    "version": "1.0.2",
+    "homepage": "https://getkirby.com",
+    "type": "kirby-plugin",
+    "authors": [
+        {
+            "name": "Bastian Allgeier",
+            "email": "bastian@getkirby.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0",
+        "getkirby/composer-installer": "^1.2"
+    },
+    "require-dev": {
+        "getkirby/cms": "^3.3"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "scripts": {
+        "analyze": "phpstan analyse",
+        "fix": "php-cs-fixer fix --config .php_cs"
+    }
+}

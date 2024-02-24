@@ -1,0 +1,36 @@
+Title: Los Recuerdos
+----
+Category: house
+----
+Rating: 7.6
+----
+Link: https://www.booking.com/hotel/es/los-recuerdos.en-gb.html?aid=818930
+----
+Street: Diseminado las Cumbres, 189
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: The property has features a  pool, barbecue and a garden, which can 
+be enjoyed by guests if the weather permits.
+It is non-smoking and is situated 15 km from Novo Sancti Petri Golf.
+----
+Text: The holiday home is equipped with 2 bedrooms, a fully 
+equipped kitchen with a dishwasher and an oven, a washing 
+machine, and 1 bathroom with a hair dryer and free toiletries. Towels 
+and bed linen are provided in the holiday home. 
+For added privacy, the accommodation features a private entrance.
+----
+Bedrooms: 2
+----
+Location: 36.32977220856476, -6.063223793534602
+----
+Beach: 7 Km
+----
+Centre: 7.5 Km
+----

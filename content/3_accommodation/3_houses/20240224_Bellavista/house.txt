@@ -1,0 +1,37 @@
+Title: Bellavista
+----
+Category: house
+----
+Rating: 8.7 
+----
+Link: https://www.booking.com/hotel/es/bellavista-conil-de-la-frontera1.en-gb.html?aid=818930
+----
+Street: Diseminado Chaparrillo
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: This holiday home has a private pool, a garden, barbecue 
+facilities, free WiFi and free private parking. The property is non-smoking
+----
+Text: The holiday home has 2 bedrooms, 1 bathroom, bed linen, towels, a 
+TV, a fully equipped kitchen, and a patio with sea views. The accommodation 
+offers a fireplace.
+
+Benalup Golf & Country Club is 36 km from the holiday home, while 
+Cortadura Fort is 37 km from the property. The nearest airport 
+is Jerez Airport, 62 km from Bellavista.
+----
+Bedrooms: 2
+----
+Location: 36.29896031060413, -6.08724798617283
+----
+Beach: 2.9 Km
+----
+Centre: 3 Km
+----
