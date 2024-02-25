@@ -1,0 +1,33 @@
+Title: Casas Rurales Pericón
+----
+Category: house
+----
+Rating: 8.9
+----
+Link: https://www.booking.com/hotel/es/apartamentos-pericon.en-gb.html?aid=818930
+----
+Street: Carretera de Puerto Pesquero, Km 2
+----
+Town: Conil de la Frontera
+----
+Postcode: 11149
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: There are four Chalets available. Some units include a dining area and/or terrace 
+and have a pool, free wi-fi. The accommodation is pet friendly and has private parking. 
+----
+Text: The pet-friendly accommodation is air conditioned and comes with a TV. 
+There is also a kitchen, equipped with a microwave. A toaster and coffee 
+machine are also featured. Towels are provided. 
+----
+Bedrooms: 
+----
+Location: 36.304391240161614, -6.126263809517352
+----
+Beach: 1.3 Km
+----
+Centre: 5.5 Km
+----
