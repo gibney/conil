@@ -1,0 +1,52 @@
+Title: Camping Los Eucaliptos
+----
+Category: Campsite
+----
+Link: https://www.campingloseucaliptos.com
+----
+Street: Carr. del Pradillo
+----
+Town: Conil de la Frontera
+----
+Postcode: 11140
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: The Campsite is set in a big eucalyptus forest, as its name 
+indicates. It is located just on the outside of Conil which means 
+that it's only a 10 minute walk into Conil old town or the beach.
+ 
+The Campsite is adapted for disabled people with disabled W.C. and ramps.
+----
+Description: Facilities include: Restaurant-Bar, 
+swimming-pool, market, Wi-Fi, leisure room, laundry, safe boxes, 
+electrical connections in every parcel, hot water, facilities 
+for mobile homes and caravans.
+
+Its priviledged location is perfect to move around with no 
+need to use the car, since it is placed within a ten-twelve minutes 
+walk from the beach or the town centre. You will find supermarkets,  
+pharmacies, clinics, banks, car-renting, a bus station, a tourist 
+office and everything you need in its surroundings.
+
+----
+Location: 36.28748048324497, -6.0913589899777145
+----
+Beach: 1.3 Km
+----
+Centre: 1.3 Km
+----
+Tents: Yes
+----
+Bungalows: Yes 
+----
+Campervans: Yes
+----
+Pool: Yes
+----
+Restaurant: Yes
+----
+Shop: Yes
+----

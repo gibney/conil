@@ -1,0 +1,42 @@
+Title: Camping Roche
+----
+Category: Campsite
+----
+Link: https://www.campingroche.com/
+----
+Street: Carril de Pilahito, 
+----
+Town: Conil de la Frontera
+----
+Postcode: 11149
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: Located in Roche area 5 Km from Conil. The campsite is surrounded by Pine 
+forests and through them you reach the coast. There are multiple paths that cover 
+this area and you can drive to Puntalejos beach at the Calas de Roche. 
+
+This natural area is situated on the outskirts of Conil, only 7 minutes by car or bus from Conil.
+----
+Description: 
+----
+Location: 36.31133697226587, -6.112615415300685
+----
+Beach: 2.8 Km
+----
+Centre: 5.4 Km
+----
+Tents: Yes
+----
+Bungalows: Yes 
+----
+Campervans: Yes
+----
+Pool: Yes
+----
+Restaurant: Yes 
+----
+Shop: Yes
+----

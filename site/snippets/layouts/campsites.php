@@ -9,19 +9,18 @@
             <a href="<?= $campsite->link() ?>" target="_blank">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $campsite->title() ?></h5>
             </a>
-            <p class="mb-1 font-normal text-orange-700">
-                Rated <?= $campsite->rating() ?> on Booking.com<br>
-
+            <hr class="h-px my-2 bg-gray-200 border-0">
+            <p class="mb-1 font-normal text-black">
+                <span class="text-orange-700"><?= $campsite->beach() ?></span> to the beach.<br>
+                <span class="text-orange-700"><?= $campsite->centre() ?></span> into Conil old town.<br>
             </p>
             <p class="mb-2 font-normal text-gray-500">
-            <span class="text-black"><?= $campsite->beach() ?></span> to the beach.<br>
-            <span class="text-black"><?= $campsite->centre() ?></span> into Conil old town.<br>
-            Pitches For Tents: <span class="text-black"><?= $campsite->tents() ?></span><br>
-            Bungalows: <span class="text-black"><?= $campsite->bungalows() ?></span><br>
-            Pitches for Campervans: <span class="text-black"><?= $campsite->campervans() ?></span><br>
-            Pool: <span class="text-black"><?= $campsite->pool() ?></span><br>
-            Restaurant: <span class="text-black"><?= $campsite->restaurant() ?></span><br>
-            Shop: <span class="text-black"><?= $campsite->shop() ?></span><br>
+            Pitches For Tents: <span class="text-orange-700"><?= $campsite->tents() ?></span><br>
+            Bungalows: <span class="text-orange-700"><?= $campsite->bungalows() ?></span><br>
+            Pitches for Campervans: <span class="text-orange-700"><?= $campsite->campervans() ?></span><br>
+            Pool: <span class="text-orange-700"><?= $campsite->pool() ?></span><br>
+            Restaurant: <span class="text-orange-700"><?= $campsite->restaurant() ?></span><br>
+            Shop: <span class="text-orange-700"><?= $campsite->shop() ?></span><br>
             </p>
             <p class="mb-1 font-normal text-gray-700">
                 <?= $campsite->intro() ?>

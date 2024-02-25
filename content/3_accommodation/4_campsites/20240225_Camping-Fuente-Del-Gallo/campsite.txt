@@ -1,0 +1,43 @@
+Title: Camping Fuente Del Gallo
+----
+Category: Campsite
+----
+Link: https://www.campingfuentedelgallo.com/
+----
+Street: Carril el Palillero s/n, Urb. Fuente del Gallo
+----
+Town: Conil de la Frontera
+----
+Postcode: 11149
+----
+Region: Cádiz
+----
+Country: España
+----
+Intro: This campsite is a 7 minute walk to the Fuente De Gallo beach. Although it is a 50 minute 
+walk into Conil old town. There is local a bus service that runs between Conil and Fuente Del Gallo.
+----
+Description: 
+----
+Bedrooms:
+----
+Rating: 
+----
+Location: 36.29705716629981, -6.109902559650259
+----
+Beach: 550 m
+----
+Centre: 3.6 Km
+----
+Tents: Yes
+----
+Bungalows: Yes 
+----
+Campervans: Yes
+----
+Pool: Yes
+----
+Restaurant: Yes 
+----
+Shop: Yes
+----
