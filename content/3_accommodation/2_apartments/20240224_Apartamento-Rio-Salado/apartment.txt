@@ -1,28 +1,57 @@
 Title: Apartamento Rio Salado
+
 ----
+
 Link: 
+
 ----
+
 Street: 
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
+
 Intro: 
+
 ----
+
 Text: 
+
 ----
+
 Bedrooms: 
+
 ----
+
 Rating: 
+
 ----
+
 Location: 
+
 ----
-Beach:  Km
+
+Beach: Km
+
 ----
-Centre:  Km
+
+Centre: Km
+
 ----
+
+Uuid: cpRZ3wBSjYpcANnK

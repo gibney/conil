@@ -1,35 +1,70 @@
 Title: Casa Ramon
+
 ----
+
 Category: house
+
 ----
+
 Rating: 8.9
+
 ----
+
 Link: https://www.booking.com/hotel/es/casa-ramon-conil-de-la-fronters.en-gb.html?aid=818930
+
 ----
+
 Street: Carril de la Lonja
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: This property has a private pool, a fully equipped kitchen access to a 
+
+Intro:
+
+This property has a private pool, a fully equipped kitchen access to a 
 terrace and free private parking
+
 ----
-Text: The holiday home has 3 bedrooms, a fully 
+
+Text:
+
+The holiday home has 3 bedrooms, a fully 
 equipped kitchen with a dishwasher and an oven, a 
 washing machine, and 2 bathrooms with a hair dryer and free 
 toiletries. Towels and bed linen are offered in the holiday home. 
 The accommodation offers a fireplace.
+
 ----
+
 Bedrooms: 3
+
 ----
+
 Location: 36.29341099647949, -6.081296607003815
+
 ----
+
 Beach: 2.8 Km
+
 ----
+
 Centre: 2.4 Km
+
 ----
+
+Uuid: OzhHFqSi51c0ATKz

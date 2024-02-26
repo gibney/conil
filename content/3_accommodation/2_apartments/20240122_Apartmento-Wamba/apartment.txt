@@ -1,31 +1,64 @@
 Title: Apartmentos Wamba
+
 ----
+
 Category: Apartment
+
 ----
+
 Link: https://www.booking.com/hotel/es/apartamentos-wamba-conil-de-la-frontera.es.html?aid=818930
+
 ----
+
 Street: Calle Pizarro Nº 5 SN, Bajo
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: There are four apartments here with a terrace, quiet street views and
+
+Intro:
+
+There are four apartments here with a terrace, quiet street views and
  a seating area with a small pool.
+
 ----
+
 Description: 
+
 ----
+
 Bedrooms: 2
+
 ----
+
 Rating: 9.5
+
 ----
+
 Location: 36.27509164224812, -6.084536738676685
+
 ----
+
 Beach: 0.5 Km
+
 ----
+
 Centre: 0.35 Km
+
 ----
+
+Uuid: imMICpZ9c0WsCPl6

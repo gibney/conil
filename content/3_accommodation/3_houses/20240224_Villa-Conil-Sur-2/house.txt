@@ -1,35 +1,70 @@
 Title: Villa Conil Sur 2
+
 ----
+
 Category: house
+
 ----
+
 Rating: 8.9
+
 ----
+
 Link: https://www.booking.com/hotel/es/villa-conilsur-2.en-gb.html?aid=818930
+
 ----
+
 Street: Diseminado Pradillo, 345
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: This holiday home has a private pool, a garden and 
+
+Intro:
+
+This holiday home has a private pool, a garden and 
 free private parking. 
 The property is non-smoking
+
 ----
-Text: The holiday home features 4 bedrooms, a fully equipped kitchen 
+
+Text:
+
+The holiday home features 4 bedrooms, a fully equipped kitchen 
 with a dishwasher and a microwave, a washing machine and 2 bathrooms 
 with a hair dryer. Towels and bed linen are available in the holiday home. 
 For added privacy, the accommodation features a private entrance.
+
 ----
+
 Bedrooms: 2
+
 ----
+
 Location: 36.29042928991382, -6.086055041338503
+
 ----
+
 Beach: 2 Km
+
 ----
+
 Centre: 1.8 Km
+
 ----
+
+Uuid: 1kSCUegcGQevhsIZ

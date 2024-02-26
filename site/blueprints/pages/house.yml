@@ -1,0 +1,54 @@
+title: House
+
+columns:
+  - width: 1/1
+    sections:
+      text:
+        type: fields
+        fields:
+          intro:
+            type: textarea
+          description:
+            type: textarea
+
+  - width: 1/2
+    sections:
+      info:
+        type: fields
+        fields:
+          category:
+            type: text
+          rating:
+            type: text
+          link: 
+            type: url
+            help: Check that aid=818930 is added to url
+          street:
+            type: text
+          town:
+            type: text
+          postcode:
+            type: text
+          region:
+            type: text
+          country:
+            type: text
+          bedrooms:
+            type: text
+          location:
+            type: text
+          beach:
+            type: text
+            help: Distance from the nearest beach
+          centre:
+            type: text
+            help: Distance from the property to Plaza de España
+            
+  - width: 1/2
+    sections:
+      gallery:
+        type: files
+        layout: cards
+        ratio: 3/2
+        cover: true
+  

@@ -1,0 +1,23 @@
+title: Houses
+
+sections:
+  drafts:
+    headline: Drafts
+    type: pages
+    layout: cards
+    template: house
+    info: booking.com rating {{ page.rating}}
+    status: drafts
+    image:
+      ratio: 3/2
+      cover: true
+  published:
+    headline: Published
+    type: pages
+    layout: cards
+    template: house
+    info: booking.com rating {{ page.rating}}
+    status: published
+    image:
+      ratio: 3/2
+      cover: true

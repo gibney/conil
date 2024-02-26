@@ -1,42 +1,85 @@
 Title: Camping Conil
+
 ----
+
 Category: Campsite
+
 ----
+
 Link: https://www.booking.com/hotel/es/teacampa-conil.es.html?aid=818930
+
 ----
+
 Street: Carril Hijuela de la Maria 86
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: Camping Conil, a property with a seasonal outdoor swimming pool, a garden and a tennis court.
+
+Intro:
+
+Camping Conil, a property with a seasonal outdoor swimming pool, a garden and a tennis court.
 There is an on-site restaurant and free private parking. Featuring family rooms, this property also 
 provides guests with a picnic area.
+
 ----
+
 Description: 
+
 ----
+
 Rating: 8.5
+
 ----
+
 Location: 36.31484874905334, -6.092233868751763
+
 ----
+
 Beach: 4 Km
+
 ----
+
 Centre: 4.7 Km
+
 ----
+
 Tents: No
+
 ----
+
 Bungalows: No
+
 ----
+
 Campervans: No
+
 ----
+
 Pool: Yes
+
 ----
+
 Restaurant: No
+
 ----
+
 Shop: No
+
 ----
+
+Uuid: wYEHil0yudQIIWMs

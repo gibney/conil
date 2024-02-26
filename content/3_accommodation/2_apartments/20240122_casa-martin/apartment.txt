@@ -1,31 +1,64 @@
 Title: Casa Martin
+
 ----
+
 Category: Apartment
+
 ----
+
 Link: https://www.booking.com/hotel/es/casa-martin-conil-de-la-frontera.en-gb.html?aid=818930
+
 ----
+
 Street: Calle Jure 22
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: Two apartments - One-Bedroom and Two-Bedroom. A great location 
+
+Intro:
+
+Two apartments - One-Bedroom and Two-Bedroom. A great location 
 in the fishermen's quarter in Conil old town.
+
 ----
+
 Description: 
+
 ----
+
 Bedrooms: 2
+
 ----
+
 Rating: 9
+
 ----
+
 Location: 36.2778123280774, -6.091772902452452
+
 ----
+
 Beach: 0.25 Km
+
 ----
+
 Centre: 0.45 Km
+
 ----
+
+Uuid: 42cYik1NW4k4ZMdt

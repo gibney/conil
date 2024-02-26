@@ -10,8 +10,8 @@
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $list->title() ?></h5>
             </a>
             <p class="mb-1 font-normal text-orange-700">
-                <?= $list->star() ?><br>
-                <?= $list->rating() ?><br>    
+                <?= $list->star() ?> Star Hotel<br>
+                <?= $list->rating() ?> Rating on Booking.com<br>    
             </p>
             <p class="mb-2 font-normal text-gray-500">
             <?= $list->beach() ?> to the beach.<br>

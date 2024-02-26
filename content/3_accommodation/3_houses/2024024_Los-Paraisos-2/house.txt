@@ -1,35 +1,70 @@
 Title: Los Paraisos 2
+
 ----
+
 Category: house
+
 ----
+
 Rating: 9.2
+
 ----
+
 Link: https://www.booking.com/hotel/es/los-paraisos-2.en-gb.html?aid=818930
+
 ----
-Street:  Diseminado Pradillo 32
+
+Street: Diseminado Pradillo 32
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11149
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: This house has a pool, garden and barbecue facilities. It also offers 
+
+Intro:
+
+This house has a pool, garden and barbecue facilities. It also offers 
 access to a patio, free private parking and free WiFi. 
-The property is non-smoking 
+The property is non-smoking
+
 ----
-Text: The holiday home has 2 bedrooms, a TV, a fully equipped 
+
+Text:
+
+The holiday home has 2 bedrooms, a TV, a fully equipped 
 kitchen with a dishwasher and a microwave, a washing machine, and 
 1 bathroom with a bath. Towels and bed linen are offered 
 in the holiday home. The accommodation offers a fireplace.
+
 ----
+
 Bedrooms: 2
+
 ----
+
 Location: 36.30084447306439, -6.11020501567629
+
 ----
+
 Beach: 1.4 Km
+
 ----
+
 Centre: 4.3 Km
+
 ----
+
+Uuid: pkBRBK9DKBRRDkDc

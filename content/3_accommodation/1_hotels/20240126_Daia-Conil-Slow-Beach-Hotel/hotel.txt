@@ -6,11 +6,11 @@ Category: hotel
 
 ----
 
-Star: 5 Star Hotel
+Star: 5
 
 ----
 
-Rating: 9.0 Rating on Booking.com
+Rating: 9.0
 
 ----
 

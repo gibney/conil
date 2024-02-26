@@ -1,35 +1,70 @@
 Title: Chalet Aragon Muñoz
+
 ----
+
 Category: house
+
 ----
+
 Rating: 9
+
 ----
+
 Link: https://www.booking.com/hotel/es/chalet-aragon-munoz.en-gb.html?aid=818930
+
 ----
+
 Street: Diseminado Pradillo 360
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: The spacious holiday home has 4 bedrooms, shaded outdoor 
+
+Intro:
+
+The spacious holiday home has 4 bedrooms, shaded outdoor 
 terrace and a pool.
+
 ----
-Text: The spacious holiday home has 4 bedrooms, a TV, a fully 
+
+Text:
+
+The spacious holiday home has 4 bedrooms, a TV, a fully 
 equipped kitchen with a microwave and a toaster, a washing 
 machine, and 3 bathrooms with a shower. Towels and bed linen 
 are offered in the holiday home. 
 The accommodation offers a fireplace.
+
 ----
+
 Bedrooms: 4
+
 ----
+
 Location: 36.29033171413843, -6.095846671652485
+
 ----
-Beach:  Km
+
+Beach: Km
+
 ----
-Centre:  Km
+
+Centre: Km
+
 ----
+
+Uuid: 4ddxGKxrwvgl5wNR

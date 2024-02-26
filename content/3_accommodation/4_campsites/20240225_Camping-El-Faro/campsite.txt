@@ -1,45 +1,90 @@
 Title: Camping El Faro
+
 ----
+
 Category: Campsite
+
 ----
+
 Link: https://www.campingelfaro.com/
+
 ----
+
 Street: Crta. del Puerto Costa de la Luz
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11149
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: Camping El Faro is located in a unique place, nestled in the 
+
+Intro:
+
+Camping El Faro is located in a unique place, nestled in the 
 nature of the Costa de la Luz, surrounded by 
 beautiful coves with crystal-clear waters and extensive white sand beaches.
+
 ----
-Description: We offer you the ideal place to enjoy a fun family vacation.
+
+Description:
+
+We offer you the ideal place to enjoy a fun family vacation.
 We work day by day so you can enjoy with us.
 Shaded, quiet and familiar environment with the 
 necessary services for you to enjoy a pleasant stay.
+
 ----
+
 Rating: 
+
 ----
+
 Location: 
+
 ----
+
 Beach: 1.4 Km
+
 ----
+
 Centre: 5.5 Km
+
 ----
+
 Tents: Yes
+
 ----
+
 Bungalows: Yes
+
 ----
+
 Campervans: Yes
+
 ----
+
 Pool: Yes
+
 ----
-Restaurant: Yes 
+
+Restaurant: Yes
+
 ----
+
 Shop: 
+
 ----
+
+Uuid: zRVz2CYYXX73dHG5

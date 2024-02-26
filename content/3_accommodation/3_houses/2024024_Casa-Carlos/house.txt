@@ -1,34 +1,69 @@
 Title: Casa Carlos
+
 ----
+
 Category: house
+
 ----
+
 Rating: 9.2
+
 ----
+
 Link: https://www.booking.com/hotel/es/casa-carlos-con-piscina-privada-en-conil.en-gb.html?aid=818930
+
 ----
+
 Street: Ctra. National N-340
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: This house has a private pool, a garden and barbecue facilities. 
+
+Intro:
+
+This house has a private pool, a garden and barbecue facilities. 
 There is also free WiFi, free private parking and facilities for disabled guests.
+
 ----
-Text: The holiday home features 3 bedrooms, 2 bathrooms, bed linen, 
+
+Text:
+
+The holiday home features 3 bedrooms, 2 bathrooms, bed linen, 
 towels, a TV with cable channels, a fully equipped kitchen, and a patio 
 with garden views. For added privacy, the accommodation features a 
 private entrance.
+
 ----
+
 Bedrooms: 3
+
 ----
+
 Location: 36.32241290341503, -6.088891432191685
+
 ----
+
 Beach: 5 Km
+
 ----
+
 Centre: 5.8 Km
+
 ----
+
+Uuid: FqZUUojgFIiWsjPP

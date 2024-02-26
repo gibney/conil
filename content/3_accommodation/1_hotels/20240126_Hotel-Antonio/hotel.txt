@@ -26,12 +26,11 @@ Category: Hotel
 
 ----
 
-Star: 2 Star Hotel
+Star: 2
 
 ----
 
-Rating: 7.8 Rating on Booking.com
-
+Rating: 7.8
 ----
 
 Link: https://www.booking.com/hotel/es/antonio-conil.html?aid=818930

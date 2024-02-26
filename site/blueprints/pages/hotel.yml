@@ -23,7 +23,8 @@ columns:
           rating:
             type: text
           link: 
-            type:url
+            type: url
+            help: Check that aid=818930 is added to url
           street:
             type: text
           town:

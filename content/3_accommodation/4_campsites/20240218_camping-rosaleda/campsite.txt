@@ -1,42 +1,84 @@
 Title: Camping Rosaleda
-----
-Category: Campsite
-----
-Link: https://campinglarosaleda.com/
-----
-Street: Carril de la Pradillo
-----
-Town: Conil de la Frontera
-----
-Postcode: 11140
-----
-Region: Cádiz
-----
-Country: España
-----
-Intro: This is a fantastic campsite. It's open all year round, with plots for campervans, caravans or tents. 
-All surrounded and shaded by mature trees.
-----
-Description: 
-----
-Rating: 9
-----
-Location:  36.29450385313311, -6.095509551457117
-----
-Beach: 1 Km
-----
-Centre: 2.2 Km
-----
-Tents: Yes
-----
-Bungalows: Yes
-----
-Campervans: Yes
-----
-Pool: Yes
-----
-Restaurant: Yes
-----
-Shop: Yes
+
 ----
 
+Category: Campsite
+
+----
+
+Link: https://campinglarosaleda.com/
+
+----
+
+Street: Carril de la Pradillo
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Intro:
+
+This is a fantastic campsite. It's open all year round, with plots for campervans, caravans or tents. 
+All surrounded and shaded by mature trees.
+
+----
+
+Description: 
+
+----
+
+Rating: 9
+
+----
+
+Location: 36.29450385313311, -6.095509551457117
+
+----
+
+Beach: 1 Km
+
+----
+
+Centre: 2.2 Km
+
+----
+
+Tents: Yes
+
+----
+
+Bungalows: Yes
+
+----
+
+Campervans: Yes
+
+----
+
+Pool: Yes
+
+----
+
+Restaurant: Yes
+
+----
+
+Shop: Yes
+
+----
+
+Uuid: xt05uILd1Oa3RopO

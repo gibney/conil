@@ -1,34 +1,69 @@
 Title: Villa Cala Salada
+
 ----
+
 Category: house
+
 ----
+
 Rating: 9
+
 ----
+
 Link: https://www.booking.com/hotel/es/villa-cala-salada-conil-de-la-frontera.en-gb.html?aid=818930
+
 ----
-Street: Carril del Chaparillo 
+
+Street: Carril del Chaparillo
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11149
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: This holiday home features air conditioning, a 
+
+Intro:
+
+This holiday home features air conditioning, a 
 private pool, a garden, barbecue facilities, free WiFi and 
 free private parking
+
 ----
-Text: The holiday home comes with 4 bedrooms, 2 bathrooms, bed 
+
+Text:
+
+The holiday home comes with 4 bedrooms, 2 bathrooms, bed 
 linen, towels, a TV, a fully equipped kitchen, and a patio with 
 garden views. The accommodation has a fireplace.
+
 ----
+
 Bedrooms: 4
+
 ----
+
 Location: 36.29810382039165, -6.082017275334946
+
 ----
-Beach:  Km
+
+Beach: Km
+
 ----
-Centre:  Km
+
+Centre: Km
+
 ----
+
+Uuid: PB80XM810Hbw6Fif

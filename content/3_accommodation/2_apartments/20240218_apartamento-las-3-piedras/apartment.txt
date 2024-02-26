@@ -1,29 +1,60 @@
 Title: Apartamento Las 3 Piedras
+
 ----
+
 Link: https://www.booking.com/hotel/es/apartamento-las-3-piedras.es.html?aid=818930
+
 ----
+
 Street: Calle Las Tres Piedras
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11140
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: Featuring air-conditioned accommodation with a balcony. Great 
+
+Intro:
+
+Featuring air-conditioned accommodation with a balcony. Great 
 location and a well equipped apartment
+
 ----
+
 Text: 
+
 ----
+
 Bedrooms: 2
+
 ----
+
 Rating: 10
+
 ----
+
 Location: 36.281111109011626, -6.094677352893561
+
 ----
+
 Beach: 0.5 Km
+
 ----
+
 Centre: 1 Km
+
 ----
+
+Uuid: 6acZnvVfrlbC8U6J

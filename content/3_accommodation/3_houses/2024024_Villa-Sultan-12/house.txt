@@ -1,33 +1,68 @@
 Title: Villa Sultan 12
+
 ----
+
 Category: house
+
 ----
+
 Rating: 9.2
+
 ----
+
 Link: https://www.booking.com/hotel/es/villa-sultan-12.en-gb.html?aid=818930
+
 ----
+
 Street: Diseminado Pradillo 407
+
 ----
+
 Town: Conil de la Frontera
+
 ----
+
 Postcode: 11149
+
 ----
+
 Region: Cádiz
+
 ----
+
 Country: España
+
 ----
-Intro: This holiday home features a 
+
+Intro:
+
+This holiday home features a 
 private pool, a garden, barbecue facilities, free 
-WiFi and free private parking 
+WiFi and free private parking
+
 ----
-Text: The spacious holiday home has 
+
+Text:
+
+The spacious holiday home has 
 6 bedrooms, a TV, a fully equipped kitchen with a dishwasher and a microwave, a washing machine, and 3 bathrooms with a shower. Towels and bed linen are available in the holiday home. The accommodation offers a fireplace.
+
 ----
-Bedrooms: 6 
+
+Bedrooms: 6
+
 ----
+
 Location: 36.28981311590232, -6.080396698118616
+
 ----
+
 Beach: 3 Km
+
 ----
+
 Centre: 2.6 Km
+
 ----
+
+Uuid: XAO4jgAXqM7tNBW2
