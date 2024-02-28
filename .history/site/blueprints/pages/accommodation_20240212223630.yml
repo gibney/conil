@@ -1,0 +1,6 @@
+title: Accommodation
+
+sections:
+  accommodation:
+    type: pages
+    layout: cards
