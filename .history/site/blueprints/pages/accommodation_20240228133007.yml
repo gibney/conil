@@ -1,7 +1,0 @@
-title: Accommodation
-
-sections:
-  accommodation:
-    type: pages
-    layout: list
-    icon: house
