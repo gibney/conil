@@ -1,10 +1,9 @@
 <?php   snippet('layouts/layout', slots: true); ?>
 <?php slot('header');
-snippet('menus/menu');
-snippet('menus/menu-breadcrumb');
-endslot(); ?>
+    snippet('menus/menu');
+    snippet('menus/menu-breadcrumb');
+    endslot(); ?>
 <?php endsnippet(); ?>
-
 <?php   snippet('article', slots: true); ?>
     
     <?php slot('heading');?>
