@@ -1,11 +1,21 @@
-Title: History
+Title:  History
 
 ----
 
-Subheading: Once Again in Conil
+Heading: Conil de la Frontera - 
 
 ----
 
-Uuid: 9rhYhULzpPtNLxQG
+Subheading: A Short and (hopefully) Quite Interesting History
+
+----
+
+Lead: 
+
+Today´s appearance of Conil is one of modern white-washed buildings 
+cascading down to the extensive beaches which are the main draw for the visitor. But, there 
+is more, much more… Its origin as a fishing village, in the lower Middle Ages, is not hard 
+to see. In 1983, Conil was declared a site of historical importance; with good reason 
+considering its historical and cultural heritage.
 
 ----

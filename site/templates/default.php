@@ -1,14 +1,15 @@
-<?php   snippet('layouts/layout', slots: true); ?>
-
-    <?php slot('header');
-      snippet('menus/menu');
-    endslot(); ?>
-
-    <?php slot('main'); ?>
-      <p class="my-2">
-        <?= $page->intro() ?>
-      </p>  
-      <?php snippet('4-col-list'); ?>
-    <?php endslot(); ?>
-    
-<?php endsnippet(); ?>
+<?php
+/* 
+    The layouts/layout template is used for most pages.
+    header slot: calls the menu's to include on the page.
+    main slot: calls the layouts/template to be used in the body.
+*/
+snippet('layouts/layout', slots: true);
+    slot('header');
+        snippet('menus/menu');
+        snippet('menus/menu-breadcrumb');
+    endslot();
+    slot('main');    
+        snippet('layouts/default');
+    endslot();
+endsnippet();

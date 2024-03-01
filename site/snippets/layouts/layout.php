@@ -1,9 +1,9 @@
 <?php snippet('layouts/top')?>
-<body  class="container mx-auto px-4 bg-white">  
+<body  class="container mx-auto px-4 bg-pink-200">  
     <?php snippet('layouts/ads')?>
-    <!--header-->
+    <!-- TODO header - Insert the menus required in the templates/file -->
     <header class="header">
-        <?= $slots->header() ?>
+    <?= $slots->header() ?>
     </header>  
     <main class="main">
         <h1 class="my-4 text-5xl font-extrabold"><?= $page->title() ?>

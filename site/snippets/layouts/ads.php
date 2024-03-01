@@ -1,12 +1,14 @@
 
-<!--TODO ads template edited container, but still not right-->
+<!--TODO ads template edited container, but still not right. Built quickly as a placeholder.-->
     <div class="md:container mx-auto">
         <div class="col-span-4">
             <aside class=" bg-gray-100 m-2 p-2  border-solid border-2 border-gray-200">
             <!--page shuffle-->
             <?php
+                /*
+                    This returns the first random ad
+                */
                 $featured = page('ads')->children()->shuffle()->first();
-            // this will return the first random ad
             ?>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <div  class="max-h-64">

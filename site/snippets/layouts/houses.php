@@ -1,4 +1,7 @@
 <!-- TODO 1-2-4 coloumn grid wrapper. Removed 3 col and small card size 15_2_24 -->
+<h1 class="my-4 text-5xl font-extrabold"><?= $page->title() ?>
+    <small class="ms-2 font-semibold text-gray-500"><?= $page->subheading() ?></small
+</h1>
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
     <?php foreach($page->children()->listed()->shuffle() as $house): ?>
     <div class="bg-white border border-gray-200 rounded-lg shadow">
@@ -9,15 +12,15 @@
             <a href="<?= $house->link() ?>" target="_blank">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $house->title() ?></h5>
             </a>
-            <p class="mb-1 font-normal text-orange-700">
+            <p class="mb-1 text-base font-normal text-orange-700">
                 <?= $house->rating() ?> Rating on Booking.com<br>
             </p>
-            <p class="mb-2 font-normal text-gray-500">
+            <p class="mb-2 text-base font-normal text-gray-500">
             <?= $house->beach() ?> to the beach.<br>
             <?= $house->centre() ?> into Conil old town.<br>
             <?= $house->bedrooms() ?> bedrooms.<br>
             </p>
-            <p class="mb-1 font-normal text-gray-700">
+            <p class="mb-1 text-base font-normal text-gray-700">
                 <?= $house->intro() ?>
             </p>
             <a href="<?= $house->link() ?>" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-orange-600 rounded-lg hover:bg-orange-600 focus:ring-4 focus:outline-none focus:ring-orange-300" target="_blank">
