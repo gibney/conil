@@ -4,12 +4,16 @@
     header slot: calls the menu's to include on the page.
     main slot: calls the layouts/template to be used in the body.
 */
-snippet('layouts/layout', slots: true);
+snippet('layout', slots: true);
     slot('header');
         snippet('menus/menu');
         snippet('menus/menu-breadcrumb');
     endslot();
     slot('main');    
         snippet('history');
+        
     endslot();
+  
 endsnippet();
+
+

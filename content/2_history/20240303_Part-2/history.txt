@@ -1,4 +1,4 @@
-Title: Introduction
+Title: Part Two
 
 ----
 
@@ -10,15 +10,19 @@ Template: history
 
 ----
 
-Date: 1/03/2024
+Date: 3/03/2024
 
-____
+----
 
 Tag: History
 
 ----
 
-Part: 1
+Menu: Part Two
+
+----
+
+Part: 2
 
 ----
 
@@ -31,20 +35,16 @@ Subheading: A Short and (hopefully) Quite Interesting History
 ----
 
 Lead:
-Today´s appearance of Conil is one of modern white-washed buildings 
-cascading down to the extensive beaches which are the main draw for the visitor. But, there 
-is more, much more… Its origin as a fishing village, in the lower Middle Ages, is not hard 
-to see. In 1983, Conil was declared a site of historical importance; with good reason 
-considering its historical and cultural heritage.
-
-----
-Text:
-
 Viewing the town´s surroundings, such as from the 
 Torre de Guzmán, (link – Torre de Guzmán) reveals the unique 
 location of Conil. It is situated both between two oceans and between 
 two continents; the Mediterranean and the Atlantic Oceans, and the continents 
-of old Europe and the even older Africa, respectively. Situated near the mythical 
+of old Europe and the even older Africa, respectively.
+
+----
+Text:
+
+Situated near the mythical 
 Pillars of Hercules (the real rock outcrops of Jebel Musa in Morocco and Gibraltar), Conil´s 
 geographical position in the classical world has meant that the town has seen 
 succeeding civilisations come and go. Although the current town´s origins lie in 
@@ -55,5 +55,3 @@ Tarsessus and possibly a satellite settlement of the legendary Atlantisi. Conseq
 closer look at Conil reveals a fascinating and long history.
 
 ----
-
-Uuid: 9rhYhULzpPtNLxQG

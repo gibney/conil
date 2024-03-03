@@ -1,8 +1,32 @@
-Title:  History
+Title: History
 
 ----
 
-Heading: Conil de la Frontera - 
+Author: Michael Nottage
+
+----
+
+Date: 1/03/2024
+
+----
+
+Tag: History
+
+----
+
+Menu: Introduction
+
+____
+
+Part: 1
+
+----
+
+Layout: 
+
+----
+
+Heading: Conil de la Frontera -
 
 ----
 
@@ -10,12 +34,18 @@ Subheading: A Short and (hopefully) Quite Interesting History
 
 ----
 
-Lead: 
+Lead:
 
 Today´s appearance of Conil is one of modern white-washed buildings 
 cascading down to the extensive beaches which are the main draw for the visitor. But, there 
-is more, much more… Its origin as a fishing village, in the lower Middle Ages, is not hard 
-to see. In 1983, Conil was declared a site of historical importance; with good reason 
-considering its historical and cultural heritage.
+is more, much more… 
+
+----
+
+Text: This is a series of historical articles about the development of Conil over that last 300 years.
+
+----
+
+Uuid: cuNpHAG1egYyQ2uk
 
 ----

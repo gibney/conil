@@ -13,14 +13,32 @@
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $list->title() ?></h5>
             </a>
             <p class="mb-1 text-base font-normal text-orange-700">
+            
+                <?php if($list->star()->isNotEmpty()): ?>
                 <?= $list->star() ?> Star Hotel<br>
-                <?= $list->rating() ?> Rating on Booking.com<br>    
+                <?php endif ?>
+            
+                <?php if($list->rating()->isNotEmpty()): ?>
+                <?= $list->rating() ?> Rating on Booking.com<br>
+                <?php endif ?>  
+            
             </p>
             <p class="mb-2 text-base font-normal text-gray-500">
-            <?= $list->beach() ?> to the beach.<br>
-            <?= $list->centre() ?> into Conil old town.<br>
-            <?= $list->rooms() ?> rooms.<br>
+
+            <?php if($list->beach()->isNotEmpty()): ?>    
+                <?= $list->beach() ?> to the beach.<br>
+                <?php endif ?>
+                
+                <?php if($list->centre()->isNotEmpty()): ?>
+                <?= $list->centre() ?> into Conil old town.<br>
+                <?php endif ?>
+                
+                <?php if($list->rooms()->isNotEmpty()): ?>
+                <?= $list->rooms() ?> rooms.<br>
+                <?php endif ?>
+
             </p>
+
             <p class="mb-1 text-base font-normal text-gray-700">
                 <?= $list->intro() ?>
             </p>

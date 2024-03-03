@@ -13,13 +13,27 @@
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $house->title() ?></h5>
             </a>
             <p class="mb-1 text-base font-normal text-orange-700">
+                
+                <?php if($house->rating()->isNotEmpty()): ?>
                 <?= $house->rating() ?> Rating on Booking.com<br>
+                <?php endif ?>
+            
             </p>
             <p class="mb-2 text-base font-normal text-gray-500">
-            <?= $house->beach() ?> to the beach.<br>
-            <?= $house->centre() ?> into Conil old town.<br>
-            <?= $house->bedrooms() ?> bedrooms.<br>
-            </p>
+            
+            <?php if($house->beach()->isNotEmpty()): ?>    
+                <?= $house->beach() ?> to the beach.<br>
+                <?php endif ?>
+                
+                <?php if($house->centre()->isNotEmpty()): ?>
+                <?= $house->centre() ?> into Conil old town.<br>
+                <?php endif ?>
+                
+                <?php if($house->bedrooms()->isNotEmpty()): ?>
+                <?= $house->bedrooms() ?> bedrooms.<br>
+                <?php endif ?>
+            
+        </p>
             <p class="mb-1 text-base font-normal text-gray-700">
                 <?= $house->intro() ?>
             </p>

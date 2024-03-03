@@ -12,13 +12,27 @@
             <a href="<?= $apartment->link() ?>" target="_blank">
             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $apartment->title() ?></h5>
             </a>
+
+            <?php if($apartment->rating()->isNotEmpty()): ?>
             <p class="mb-1 text-base font-normal text-orange-700">
                 <?= $apartment->rating() ?> Rating on Booking.com<br>
             </p>
+            <?php endif ?>
+            
             <p class="mb-2 text-base font-normal text-gray-500">
-            <?= $apartment->beach() ?> to the beach.<br>
-            <?= $apartment->centre() ?> into Conil old town.<br>
-            <?= $apartment->bedrooms() ?> bedrooms.<br>
+                
+                <?php if($apartment->beach()->isNotEmpty()): ?>    
+                <?= $apartment->beach() ?> to the beach.<br>
+                <?php endif ?>
+                
+                <?php if($apartment->centre()->isNotEmpty()): ?>
+                <?= $apartment->centre() ?> into Conil old town.<br>
+                <?php endif ?>
+                
+                <?php if($apartment->bedrooms()->isNotEmpty()): ?>
+                <?= $apartment->bedrooms() ?> bedrooms.<br>
+                <?php endif ?>
+                
             </p>
             <p class="mb-1 text-base font-normal text-gray-700">
                 <?= $apartment->intro() ?>
