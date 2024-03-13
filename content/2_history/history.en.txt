@@ -1,4 +1,4 @@
-Title: History
+Title: Introduction
 
 ----
 
@@ -26,11 +26,11 @@ Layout:
 
 ----
 
-Heading: Conil de la Frontera -
+Heading: Conil -
 
 ----
 
-Subheading: A Short and (hopefully) Quite Interesting History
+Subheading: A Short and interesting history
 
 ----
 
@@ -42,7 +42,7 @@ is more, much more…
 
 ----
 
-Text: This is a series of historical articles about the development of Conil over that last 300 years.
+Text: This is a series of articles tracing the development of Conil over that last 300 years.
 
 ----
 

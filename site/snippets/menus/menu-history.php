@@ -1,9 +1,13 @@
 <nav class="menu text-center text-gray-500 py-4">
-        <?php foreach($site->find('history')->children()->listed() as $item): ?>
-        <ul class="list-none">
-            <a href="<?= $item->url() ?>">
-                <li class="py-4 m-1 bg-gray-100"><?= $item->menu()  ?></li>
+    <?php foreach ($site->find('history')->children()->listed() as $item) : ?>
+        <ul class="list-none bg-gray-100">
+            <a <?= attr([
+                    'href'         => $item->url(),
+                    'aria-current' => $item->isOpen() ? 'page' : null,
+                    'class'        => $item->isopen() ? 'active' : null
+                ]) ?>>
+                <li class="py-4 m-1"><?= $item->menu()  ?></li>
             </a>
         </ul>
-        <?php endforeach ?> 
+    <?php endforeach ?>
 </nav>

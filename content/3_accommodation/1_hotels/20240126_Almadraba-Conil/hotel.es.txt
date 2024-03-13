@@ -1,0 +1,73 @@
+Title: Hotel Almadraba
+
+----
+
+Intro:
+
+Una casona restaurada del siglo XVIII que ahora se utiliza como hotel. Tiene
+17 habitaciones distribuidas en torno a dos patios típicos andaluces. Es bastante básico desde fuera. Sin embargo, es encantador cuando entras.
+
+----
+
+Description:
+
+Boutique Hotel, located in the old part of Conil and just a 250 meters from 
+Los Bateles beach. Its privileged situation, in the surroundings of Guzman Tower, Santa 
+Catalina Church and La Chanca, lets you enjoy to the real Conil on foot. We can forget 
+about the car and enjoy its gastronomy, its monuments and mainly its inhabitants.
+
+----
+
+Category: hotel
+
+----
+
+Star: 3
+
+----
+
+Rating: 9.0
+
+----
+
+Link: https://www.booking.com/hotel/es/almadraba-conil.html?aid=818930
+
+----
+
+Street: Señores Curas, 4
+
+----
+
+Town: Conil de la Frontera
+
+----
+
+Postcode: 11140
+
+----
+
+Region: Cádiz
+
+----
+
+Country: España
+
+----
+
+Rooms: 17
+
+----
+
+Pool: No
+
+----
+
+Location: 36.273310 -6.088580
+
+----
+
+Beach: 0.25 Km
+
+----
+
+Centre: 0 Km

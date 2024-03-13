@@ -26,7 +26,7 @@ Part: 2
 
 ----
 
-Heading: Conil de la Frontera - 
+Heading: Conil de la Frontera -
 
 ----
 
@@ -35,6 +35,7 @@ Subheading: A Short and (hopefully) Quite Interesting History
 ----
 
 Lead:
+
 Viewing the town´s surroundings, such as from the 
 Torre de Guzmán, (link – Torre de Guzmán) reveals the unique 
 location of Conil. It is situated both between two oceans and between 
@@ -42,6 +43,7 @@ two continents; the Mediterranean and the Atlantic Oceans, and the continents
 of old Europe and the even older Africa, respectively.
 
 ----
+
 Text:
 
 Situated near the mythical 
@@ -55,3 +57,5 @@ Tarsessus and possibly a satellite settlement of the legendary Atlantisi. Conseq
 closer look at Conil reveals a fascinating and long history.
 
 ----
+
+Uuid: DomWHQTcYGbyd2X0

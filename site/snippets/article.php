@@ -1,14 +1,11 @@
 <article>
-    <div class="grid col-2">
-        
-        <div class="main">
-        main section of the articel.
-        </div>
-
-        <div class="sidebar">
-            side bar
-        <?php snippet('menus/menu-history'); ?>
-        </div>
-
-    </div>
+	<h1 class="h1"><?= $slots->title() ?? $page->title() ?></h1>
+	<div class="columns" style="--columns: 3">
+		<div class="text" style="--span: 2">
+			<?= $slots->text() ?>
+		</div>
+		<aside>
+			<?= $slots->sidebar() ?>
+		</aside>
+	</div>
 </article>
