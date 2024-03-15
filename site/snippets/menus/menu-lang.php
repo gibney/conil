@@ -1,11 +1,11 @@
 <nav class="languages">
-  <ul>
-    <?php foreach ($kirby->languages() as $language) : ?>
-      <li<?php e($kirby->language() == $language, ' class="active"') ?>>
-        <a href="<?php echo $language->url() ?>" hreflang="<?php echo $language->code() ?>">
-          <?php echo html($language->name()) ?>
-        </a>
-        </li>
-      <?php endforeach ?>
-  </ul>
+    <div class="flex flex-row-reverse">
+        <?php foreach ($kirby->languages() as $language) : ?>
+            <div <?php e($kirby->language() == $language, ' class="active"') ?>>
+                <a href="<?php echo $language->url() ?>" class="pl-4" hreflang="<?php echo $language->code() ?>">
+                    <?php echo html($language->code()) ?>
+                </a>
+            </div>
+        <?php endforeach ?>
+        <div>
 </nav>

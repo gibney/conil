@@ -12,7 +12,7 @@
 	<?php endforeach ?>
 </nav> */
 ?>
-<nav class="menu text-center text-white py-4 bg-orange-500">
+<nav class="menu text-center text-gray-500 py-4 bg-orange-200">
     <?php foreach ($site->find('accommodation')->children()->listed() as $item) : ?>
         <span class="p-2 mr-8">
             <a <?= attr([

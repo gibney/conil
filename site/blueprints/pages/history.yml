@@ -1,6 +1,10 @@
 title: History
 template: article
 
+# and this is a comment
+# use kirby vids to follow along and create a well commententated .yml
+# file that you can just copy / paste sections.
+
 columns:
   main:
     width: 2/3

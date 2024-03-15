@@ -1,4 +1,5 @@
 <nav class="menu  p-8  bg-orange-600 text-white ">
+    <?php snippet('menus/menu-lang') ?>
     <a class="logo" href="<?= $site->url() ?>"><span class="text-left font-bold text-5xl"><?= $site->title() ?></span></a>
     <div class="text-right">
         <?php foreach ($site->children()->listed() as $item) : ?>
