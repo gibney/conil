@@ -2,6 +2,10 @@ Title: History
 
 ----
 
+Blocks: [{"content":{"level":"h2","text":"This is the History Heading"},"id":"ec1fabd6-3bd0-4707-8e0d-a48afae795f8","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lorem ipsum dolor sit amet rhoncus quam convallis nunc. Elit tempor volutpat erat dictum malesuada maecenas eros nunc diam ullamcorper euismod. Justo scelerisque eros facilisi pulvinar libero dapibus consectetur fusce fames lacinia posuere nulla euismod. Maecenas pharetra eu urna laoreet quam dictumst convallis iaculis suspendisse phasellus enim nulla justo. Malesuada massa morbi leo facilisi eiusmod praesent pellentesque vivamus eros.&lt;/p&gt;</p><p>Urna dolore ultrices pharetra nibh euismod vulputate risus. Convallis facilisi suspendisse eu posuere blandit tortor hendrerit lacinia ut egestas bibendum venenatis. Fames phasellus proin dapibus iaculis cras fermentum lobortis aliquet. Dolore id pretium tempor scelerisque vestibulum risus velit tristique quam porta habitasse. Congue mollis non ultrices volutpat augue aliquet hac.&lt;/p&gt;</p><p>Senectus tellus ornare venenatis mi lacinia cursus mattis euismod nunc. Erat sapien malesuada et dapibus ut congue quis hac elit. Eleifend vestibulum aliquet facilisi ac venenatis iaculis diam scelerisque ac euismod. Ut est dapibus porttitor consequat tempus sollicitudin condimentum dui. Sapien et hac neque mi volutpat curabitur congue non euismod neque.</p><p>Libero vel dolore dictumst enim cursus pharetra vel aliquam consequat. Vestibulum cras platea cras pulvinar maecenas posuere incididunt donec venenatis porta netus malesuada. Venenatis cursus lectus vel facilisis lacinia vivamus consectetur. Nisi vulputate do nibh elementum condimentum sollicitudin proin velit donec maecenas. Diam condimentum auctor tellus imperdiet mollis praesent vitae nunc lectus sapien dui imperdiet bibendum.</p>"},"id":"bbc1e6d5-dc47-4d53-a398-6eb1749a8564","isHidden":false,"type":"text"},{"content":{"rows":[{"description":"this is the text","price":950},{"description":"third row","price":7657},{"description":"second row","price":876},{"description":"fourth","price":67}]},"id":"27467676-0cf0-4ef6-9b6d-a97a68742c52","isHidden":false,"type":"table"},{"content":[],"id":"f8f0bd54-4630-4f31-961d-bf451a6dac8a","isHidden":false,"type":"line"}]
+
+----
+
 Author: Michael Nottage
 
 ----
@@ -14,7 +18,9 @@ Tag: History
 
 ----
 
-Menu: Introduction
+Menu:
+
+Introduction
 
 ____
 
@@ -38,7 +44,7 @@ Lead:
 
 Today´s appearance of Conil is one of modern white-washed buildings 
 cascading down to the extensive beaches which are the main draw for the visitor. But, there 
-is more, much more… 
+is more, much more…
 
 ----
 
@@ -47,5 +53,3 @@ Text: This is a series of articles tracing the development of Conil over that la
 ----
 
 Uuid: cuNpHAG1egYyQ2uk
-
-----

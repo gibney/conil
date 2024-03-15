@@ -1,0 +1,19 @@
+name: Simple 2-column table
+#created 15-3-24. draft
+icon: menu
+preview: table
+fields:
+  rows:
+    type: structure
+    columns:
+      description:
+        width: 3/4
+      price:
+        width: 1/4
+        after: "Euros"
+    fields:
+      description:
+        type: text
+      price:
+        type: number
+        after: "Euros"

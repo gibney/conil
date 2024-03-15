@@ -1,0 +1,1 @@
+<hr class="h-px my-4 bg-gray-200 border-0 max-w-80">
