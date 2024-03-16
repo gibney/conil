@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- TODO test this-->
-<html class="test" lang="en">
+<html class="test" lang="<html lang=" <?php echo $kirby->language()->code() ?>">
 
 <head>
     <meta charset="utf-8">

@@ -4,7 +4,7 @@
 <?php snippet('menus/menu-acc') ?>
 <?php snippet('menus/menu-breadcrumb') ?>
 
-<?php snippet('layouts/4-cols', slots: true) ?>
+<?php snippet('layouts/4-cols', ['text' => 'My title'], slots: true) ?>
 
 <?php slot() ?>
 <?php foreach ($page->children()->listed()->shuffle() as $apartment) : ?>

@@ -1,5 +1,9 @@
 name: Simple 2-column table
-#created 15-3-24. draft
+# created 15-3-24. draft. The table block is
+# supposed to be used with a structure field
+# called rows. As regards the fields inside the
+# structure, you are free to name them whatever
+# you like.
 icon: menu
 preview: table
 fields:
