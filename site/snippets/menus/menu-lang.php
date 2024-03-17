@@ -1,3 +1,4 @@
+<!-- lang menu -->
 <nav class="languages">
     <div class="flex flex-row-reverse">
         <?php foreach ($kirby->languages() as $language) : ?>
@@ -9,3 +10,4 @@
         <?php endforeach ?>
         <div>
 </nav>
+<!-- / lang menu -->

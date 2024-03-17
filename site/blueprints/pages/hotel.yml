@@ -25,7 +25,7 @@ columns:
           rating:
             type: text
             width: 1/2
-          link: 
+          link:
             type: url
             help: Check that aid=818930 is added to url
           street:
@@ -45,11 +45,16 @@ columns:
           Rooms:
             type: text
             width: 1/2
-          Pool: 
+          Pool:
             type: text
             width: 1/2
           Location:
             type: text
+          Lng:
+            type: number
+            help: use bbox finder to get lng, lat
+          Lat:
+            type: number
           Beach:
             type: text
             help: Distance from the nearest beach
@@ -66,4 +71,3 @@ columns:
         layout: cards
         ratio: 3/2
         cover: true
-  

@@ -1,3 +1,4 @@
+<!-- history menu -->
 <nav class="menu text-center text-gray-500 py-4">
     <?php foreach ($site->find('history')->children()->listed() as $item) : ?>
         <ul class="list-none bg-gray-100">
@@ -11,3 +12,4 @@
         </ul>
     <?php endforeach ?>
 </nav>
+<!-- / history menu -->

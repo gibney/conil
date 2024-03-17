@@ -1,3 +1,4 @@
+<!-- acc menu -->
 <?php /* 	If the current page is open = isOpen
 
 <nav class="menu">
@@ -25,3 +26,4 @@
         </span>
     <?php endforeach ?>
 </nav>
+<!-- / acc menu -->

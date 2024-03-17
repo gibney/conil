@@ -2,6 +2,25 @@ Title: Ilunion Calas de Conil
 
 ----
 
+Intro: Located on the seafront in the Costa de Luz village of Roche, which is quite far out from Conil. It's about a 15-minute drive from Conil old town.
+
+----
+
+Description:
+
+The hotel features a private balcony or terrace, each spacious room has modern décor and a seating area. Rooms are equipped with a flat-screen satellite TV. The private bathroom includes a hairdryer and free toiletries. Some rooms offer sea views.      
+Next to the pool guests can enjoy a snack bar and the à la carte restaurant Cala Encendida, serving Mediterranean cuisine and local fresh fish. The Ilunion Calas de Conil also has a restaurant that serves traditional local dishes. Free WiFi is available throughout the property.
+
+Services for children include a kids’ club and playground, while the varied entertainment programme also offers aqua-fitness sessions in summer and night-time shows for adults.
+
+An on-site fitness centre is available for guests for free. Other sports facilities include paddle tennis, water polo and volleyball. Discounts are offered for various golf courses in the area.
+
+This hotel is entirely accessible. Rooms adapted for persons with visual or hearing impairment and wheelchair-adapted rooms are available on request.
+
+Jerez Airport is a 50-minute drive from the hotel, and Seville is 150 km away.
+
+----
+
 Category: Hotel
 
 ----
@@ -38,17 +57,6 @@ Country: España
 
 ----
 
-Intro:
-
-This hotel is quite far out of Conil in Roche - which is a complex of mainly summer 
-houses.
-
-----
-
-Description: 
-
-----
-
 Rooms: 295
 
 ----
@@ -58,6 +66,14 @@ Pool: Yes
 ----
 
 Location: 36.308834772899445, -6.149069148144167
+
+----
+
+Lng: -6.1490691481442
+
+----
+
+Lat: 36.308834772899
 
 ----
 

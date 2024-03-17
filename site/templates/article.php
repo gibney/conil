@@ -1,6 +1,9 @@
 <?php snippet('layout', slots: true) ?>
 
+<?php slot('header') ?>
 <?php snippet('menus/menu-lang') ?>
+<?php endslot() ?>
+
 <?php snippet('article', slots: true) ?>
 
 <?php slot('title') ?>
@@ -37,3 +40,11 @@ To be fair
 <?php endsnippet() ?>
 
 <?php endsnippet() ?>
+
+_______________<?php /* 
+    slot('header');
+    snippet('menus/menu');
+    snippet('menus/menu-acc');
+    snippet('menus/menu-breadcrumb');
+    endslot();
+   ends header section of layout */ ?>

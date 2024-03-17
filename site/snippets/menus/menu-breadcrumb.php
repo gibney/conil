@@ -1,3 +1,4 @@
+<!-- breadcrumb menu -->
 <nav class="flex py-2  text-gray-400" aria-label="breadcrumb">
     <ol class="inline-flex items-center space-x-1 md:space-x-2">
         <?php foreach ($site->breadcrumb() as $crumb) : ?>
@@ -12,3 +13,4 @@
         <?php endforeach; ?>
     </ol>
 </nav>
+<!-- / breadcrumb menu -->

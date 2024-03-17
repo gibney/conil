@@ -2,6 +2,33 @@ Title: Hotel Pradillo
 
 ----
 
+Intro:
+
+The hotel is surrounded by extensive gardens and offers a paddle tennis 
+court and a pool with sun loungers.
+
+----
+
+Description: 
+
+----
+
+Category: Hotel
+
+----
+
+Star: 3
+
+----
+
+Rating: 9.1
+
+----
+
+Link: https://www.booking.com/hotel/es/pradillo-conil.html?aid=818930
+
+----
+
 Street: Carretera del Pradillo, s/n
 
 ----
@@ -22,37 +49,6 @@ Country: España
 
 ----
 
-Category: Hotel
-
-----
-
-Star: 3
-
-----
-
-Rating: 9.1
-
-----
-
-Link: https://www.booking.com/hotel/es/pradillo-conil.html?aid=818930
-
-----
-
-Address: Avenida de la Marina, s/n, Conil de la Frontera ,11140, Cádiz, España
-
-----
-
-Intro:
-
-The hotel is surrounded by extensive gardens and offers a paddle tennis 
-court and a pool with sun loungers.
-
-----
-
-Description: 
-
-----
-
 Rooms: 50
 
 ----
@@ -61,7 +57,15 @@ Pool: Yes
 
 ----
 
-Location: 36.28965417856447, -6.091766920694046
+Location: -6.091967,36.289177
+
+----
+
+Lng: -6.091967
+
+----
+
+Lat: 36.289177
 
 ----
 
@@ -70,6 +74,10 @@ Beach: 1.4 Km
 ----
 
 Centre: 1.6 Km
+
+----
+
+Address: Avenida de la Marina, s/n, Conil de la Frontera ,11140, Cádiz, España
 
 ----
 

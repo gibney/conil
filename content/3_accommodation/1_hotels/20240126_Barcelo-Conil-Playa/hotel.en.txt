@@ -2,6 +2,19 @@ Title: Barceló Conil Playa
 
 ----
 
+Intro: This is a relatively new hotel (2022) which has 207 rooms and is located on the a cliff with spectacular sea views. It's in the posh part of town. However, it is a 30 minute walk from Conil old town.
+
+----
+
+Description:
+
+The hotel is characterised by a unique tiered architecture and a design concept based on sustainability, 
+integrating it into the landscape.
+It has 210 rooms which are designed to be a single space, with the bathroom separated from the rest of the area by a 
+glass partition.
+
+----
+
 Category: Hotel
 
 ----
@@ -38,19 +51,6 @@ Country: España
 
 ----
 
-Intro: This is a relatively new hotel (2022) which has 207 rooms and is located on the a cliff with spectacular sea views. It's in the posh part of town. However, it is a 30 minute walk from Conil old town.
-
-----
-
-Description:
-
-The hotel is characterised by a unique tiered architecture and a design concept based on sustainability, 
-integrating it into the landscape.
-It has 210 rooms which are designed to be a single space, with the bathroom separated from the rest of the area by a 
-glass partition.
-
-----
-
 Rooms: 207
 
 ----
@@ -59,11 +59,15 @@ Pool: 3
 
 ----
 
-Latitude: 36.273310
+Location: -6.104072,36.288684
 
 ----
 
-Longitude: -6.088580
+Lng: -6.104072
+
+----
+
+Lat: 36.288684
 
 ----
 

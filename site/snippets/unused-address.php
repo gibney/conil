@@ -44,3 +44,48 @@ endslot(); ?>
 
 <?php snippet('layouts/4-cols') ?>
 <?php slot() ?>
+
+
+<?php slot('one') ?>
+<ul>
+    <?php foreach ($page->images() as $image)
+    <li>
+        <a href="<?= $image->url() ?>">
+        <?= $image->resize(700, 500) ?>
+        </a>
+    </li>
+    <?php endforeach ?>
+</ul>
+<?php endslot() ?>
+
+<?php slot('two') ?>
+two
+<?php endslot() ?>
+
+<?php slot('three') ?>
+three
+<?php endslot() ?>
+
+<?php slot('four') ?>
+four
+<?php endslot() ?>
+
+<?php endslot() ?>
+
+</main>
+
+
+
+<?php slot('header') ?>
+
+<?php endslot()
+/** not working */
+?>
+
+<?php $mylocation = $page->myGeoLocation()->toLocation() ?>
+
+Name: <?= $mylocation->name() ?>
+Latitude: <?= $mylocation->lat() ?>
+Longitude: <?= $mylocation->lng() ?>
+
+<?php snippet('map', ['lng' => '<?= $page->lng()?>', 'lat' => '<?= $page->lat()?>']) ?>

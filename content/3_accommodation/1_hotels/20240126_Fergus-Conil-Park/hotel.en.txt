@@ -2,6 +2,21 @@ Title: Fergus Conil Park
 
 ----
 
+Intro:
+
+Overlooking the Atlantic Ocean, next to Atalya park this hotel is set in 
+attractive gardens, it features an outdoor pool and offers both rooms and apartments.
+
+----
+
+Description:
+
+FERGUS Conil Park has simple, bright décor and air-conditioned accommodations 
+with satellite TV. Rooms have balconies, while apartments feature kitchenettes, 
+seating areas and terraces.
+
+----
+
 Category: Hotel
 
 ----
@@ -38,21 +53,6 @@ Country: España
 
 ----
 
-Intro:
-
-Overlooking the Atlantic Ocean, next to Atalya park this hotel is set in 
-attractive gardens, it features an outdoor pool and offers both rooms and apartments.
-
-----
-
-Description:
-
-FERGUS Conil Park has simple, bright décor and air-conditioned accommodations 
-with satellite TV. Rooms have balconies, while apartments feature kitchenettes, 
-seating areas and terraces.
-
-----
-
 Rooms: 60
 
 ----
@@ -61,7 +61,15 @@ Pool: Yes
 
 ----
 
-Location: 36.27957168302213, -6.093369889361977
+Location: -6.094003, 36.278518
+
+----
+
+Lng: -6.094003
+
+----
+
+Lat: 36.278518
 
 ----
 

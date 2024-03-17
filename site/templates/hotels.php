@@ -9,7 +9,7 @@
 <?php slot() ?>
 <?php foreach ($page->children()->listed()->shuffle() as $list) : ?>
     <div class="bg-white border border-gray-200 rounded-lg shadow">
-        <a href="<?= $list->link() ?>" target="_blank">
+        <a href="<?= $list->url() ?>" target="_blank">
             <?= $list->image() ?>
         </a>
         <div class="p-5">
