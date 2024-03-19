@@ -9,6 +9,8 @@ fields:
     fieldsets:
       - heading
       - text
+        type: markdown
+        size: huge
       - list
       - line
       - table
@@ -17,3 +19,5 @@ fields:
       - video
       - code
       - markdown
+
+            

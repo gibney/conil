@@ -1,7 +1,7 @@
 <?php snippet('layout-map', slots: true) ?>
 
 
-<?php snippet('menus/menu') ?>
+<?php snippet('menus/menu',) ?>
 <?php snippet('menus/menu-acc') ?>
 <?php snippet('menus/menu-breadcrumb') ?>
 

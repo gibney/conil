@@ -1,10 +1,10 @@
 <?php
-/* set debug to false for production */
+
+
 return [
     'languages' => true,
-    'debug'  => true,
+    'debug' => true,
     'markdown' => [
-        'extra' => true,
-        'breaks' => true
+        'extra' => true
     ]
 ];

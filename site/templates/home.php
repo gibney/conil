@@ -15,6 +15,7 @@
             </a>
             <p class="mb-1 text-base font-normal text-gray-700">
                 <?= $item->intro() ?>
+                <?= $item->text() ?>
             </p>
 
         </div>
