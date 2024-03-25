@@ -1,7 +1,4 @@
-<?php snippet('layout', slots: true) ?>
-
-<?php snippet('menus/menu') ?>
-<?php snippet('menus/menu-breadcrumb') ?>
+<?php snippet('layouts/layout', slots: true) ?>
 
 <?php snippet('layouts/4-cols', slots: true) ?>
 

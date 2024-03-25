@@ -13,7 +13,7 @@
 
         <!-- TODO header - Insert the menus required from the templates/file -->
         <header class="header">
-            <?= $slots->header() ?>
+            <?= $slots->menu() ?>
         </header>
 
         <main class="main">
