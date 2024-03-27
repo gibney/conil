@@ -1,0 +1,18 @@
+# Examples to copy and paste
+
+# example of blocks available within a template that includes a table.
+fields:
+  blocks:
+    fieldsets:
+      - heading
+      - text
+        type: markdown
+        size: huge
+      - list
+      - line
+      - table
+      - image
+      - gallery
+      - video
+      - code
+      - markdown

@@ -1,23 +1,24 @@
 title: History
+icon: 📚
 
-# and this is a comment
-# use kirby vids to follow along and create a well commententated .yml
-# file that you can just copy / paste sections.
+columns:
+  left:
+    width: 1/2
+    sections:
+      drafts:
+        extends: sections/posts
+        label: Drafts
+        status: draft
 
-fields:
-  blocks:
-    fieldsets:
-      - heading
-      - text
-        type: markdown
-        size: huge
-      - list
-      - line
-      - table
-      - image
-      - gallery
-      - video
-      - code
-      - markdown
+      unlisted:
+        extends: sections/posts
+        label: In Review
+        status: unlisted
 
-            
+  right:
+    width: 1/2
+    sections:
+      listed:
+        extends: sections/posts
+        label: Published
+        status: listed

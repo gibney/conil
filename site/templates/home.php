@@ -1,8 +1,14 @@
 <?php snippet('layouts/layout', slots: true) ?>
 
-<?php snippet('layouts/4-cols', slots: true) ?>
+<?php snippet('home', slots: true) ?>
 
 <?php slot() ?>
+  <div class=" object-cover">
+    <div>
+    <?= $page->image() ?>
+    </div>
+  </div>
+
 <?php foreach ($site->children()->listed()->shuffle() as $item) : ?>
     <div class="bg-white border border-gray-200 rounded-lg shadow">
         <div class="p-5">

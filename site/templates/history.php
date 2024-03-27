@@ -1,50 +1,43 @@
-<?php snippet('layouts/layout', slots: true) ?>
+<?php snippet('layouts/layout', slots: true) /* uses standard layout*/?>
 
-    <?php snippet('history', slots: true) ?>
-
-        <?php slot() ?>
-            <div class="sm:col-span-1 md:col-span-4 lg:col-span-6 ">
-
-                <?= $page->blocks()->toBlocks() ?>
-                <div>
-                    <h1 class="my-4 text-4xl font-bold"><?= $page->heading() ?>
-                        <small class="ms-2 font-semibold text-gray-500"><?= $page->subheading() ?></small>
+    <?php snippet('history', slots: true)  /* puts history snippet into layout*/?>
+    
+        <?php slot('menu')/* lists the articles in the menu slot in history snippet*/ ?>
+            <section >
+                <nav>
+                    <?php foreach($page->children()->listed()->flip() as $post): ?>
+                        <h3 class="text-2xl"><?= $post->title()->html() ?></h3>
+                        <?= $post->intro()->kirbytext() ?>
+                        <a class="text-italic text-blue-500" href="<?= $post->url() ?>">Read more…</a>
+                        <hr class="h-px m-3 bg-gray-200 border-0">
+                    <?php endforeach ?>
+                </nav>
+            </section>
+        <?php endslot()?>
+        
+        <?php slot() /* content for default slot in history snippet*/?>
+            <article>
+                
+                <?php if ($page->title()->isNotEmpty()) : ?>
+                    <h1 class="my-4 text-4xl font-bold"><?= $page->title()->html() ?>
+                        <?php if ($page->subheading()->isNotEmpty()) : ?>
+                            <small class="ms-2 font-semibold text-gray-500"><?= $page->subheading() ?></small>
+                        <?php endif ?>
                     </h1>
-                </div>
-
+                <?php endif ?>
+                
                 <?php if ($page->lead()->isNotEmpty()) : ?>
-                    <div>
-                        <p class="leading-relaxed font-serif text-lg indent-8">
-                            <?= $page->lead() ?>
-                        </p>
-                    </div>
+                    <?= $page->lead()->excerpt(300) ?>
                 <?php endif ?>
-
+                
                 <?php if ($page->text()->isNotEmpty()) : ?>
-                    <div>
-                        <p class="leading-relaxed font-serif">
-                            <?= $page->text() ?>
-                        </p>
-                    </div>
+                    <?= $page->text()->kirbytext() ?>
                 <?php endif ?>
-                <hr class="text-center h-px my-8 bg-gray-400 border-0 max-w-80">
-                <hr class="h-px my-8 bg-gray-400 border-0 max-w-80">
-
-                <?php if ($page->author()->isNotEmpty()) : ?>
-                    <p class="">Author: <span class="text-gray-700"><?= $page->author() ?></span><br>
-                    </p>
-                <?php endif ?>
-
-                <hr class="h-px my-8 bg-gray-400 border-0 max-w-80">
-
-                <?php if ($page->date()->isNotEmpty()) : ?>
-                    <p class="">Published: <span class="text-gray-700"><?= $page->date() ?></span><br>
-                    </p>
-                <?php endif ?>
-
-            </div>
-        <?php endslot(); ?>
-
-    <?php endsnippet(); ?>
+            
+            </article>
+        
+            <?php endslot(); ?>
+    
+        <?php endsnippet(); ?>
     
 <?php endsnippet(); ?>
