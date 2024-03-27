@@ -10,7 +10,7 @@
                     </a>
                     <div class="p-5">
                         <a href="<?= $apartment->link() ?>" target="_blank">
-                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"> <?= $apartment->title() ?></h5>
+                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900"> <?= $apartment->title() ?></h5>
                         </a>
 
                         <?php if ($apartment->rating()->isNotEmpty()) : ?>

@@ -26,7 +26,8 @@
     "getkirby/cms": "^4.0",
     "getkirby/geo": "^1.0",
     "microman/kirby-map": "^1.1",
-    "michelf/php-markdown": "^2.0"
+    "michelf/php-markdown": "^2.0",
+    "fabianmichael/kirby-markdown-field": "^2.2"
   },
   "config": {
     "allow-plugins": {

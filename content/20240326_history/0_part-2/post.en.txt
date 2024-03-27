@@ -1,0 +1,48 @@
+Title: Part Two
+
+----
+
+Heading: Beginnings
+
+----
+
+Subheading: Part Two
+
+----
+
+Intro: This is the intro text for the second article.
+
+----
+
+Lead: Evidence has shown that Conil, as a settlement, dates back to pre-Phoenician times. Indeed, cultural relics from the Paleolithic, Neolithic and Bronze Ages have been found along the coast.
+
+----
+
+Text:
+
+Gibraltar is, of course, famous for its remains of Neanderthal man [ii]. People migrated from the south and then from the north to this, then unnamed, land. The discovery of artifacts shows that pre-classical peoples were hunter-gatherers with there is also some evidence of pastoral activity. It may be argued that the fertile soil, the mild climate and the sea provided the factors that initiated the first settlement as the richness of natural resources permitted a sedentary existence and settlement for these early migrants. The first Iberians founded a string of small settlements along the coast of which traces have been found at La Roche, El Roqueo, La Torre del Puerco and Fontanilla.
+
+
+Conil evolved into a settlement within the territorial domain of semi-mythical Tartessos [iii] which was renowned for its Bronze Age metalwork using the local resources of sulfur, silver and tin, which, by the way, naturally gave rise to some of the first metal coins as a means of exchanging goods rather than barter [iv]. Trade, around the beginning of the first Millennium BC with the early Phoenicians produced a constructive synergy between Iberian resources and Phoenician expertise, and not only was metal (especially bronze) exported but the fishing and conservation of tuna started with imported Phoenician skills. The exact location of Tartessos is not known except that it was around the delta of the Rio Guadalquivir. It has been proposed that Tartessos could have been the lost city of Atlantis and that it was destroyed by one of the periodic tsunamis that afflict the Cádiz coast (the last one being the result of the devastating Lisbon Earthquake of 1755).
+
+Tartessos was succeeded by the Turdetan [iv] people who also flourished because of their mineral resources and metalworking capabilities. Settlements such as Conil (now called by the Phoenician name, Cybion – hence the current name for the Calle Cybion in Conil) were grouped into small kingdoms called Oppidum. Because of inter-kingdom rivalries for land and trade routes, Conil, as an important resource for fish and agriculture as well as a port (because of its river), would have passed from one to the other, probably from the kingdom of Gades (Cádiz) to Asido (Medina Sidonia) and back again (not unlike the later fluctuating Andalucian frontier between the Moors and the Christians during the Reconquista.
+
+----
+
+Heroimage: 
+
+----
+
+Date: 
+
+----
+
+Author: - user://zZTcNZUm
+
+----
+
+Tags: 
+
+----
+
+Uuid: 5IsghKjw6L0myIW1

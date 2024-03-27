@@ -17,14 +17,20 @@ columns:
   main:
     width: 2/3
     fields:
+      heading:
+        type: text
+      subheading:
+        type: text
+      intro:
+        type: markdown
+        size: small
+        help: This is a summary of the article and is used on list of articles on the main and history pages -  100 chars max.
       lead:
-        type: textarea
+        type: markdown
         size: small
       text:
-        type: textarea
+        type: markdown
         size: large
-      text:
-        type: text
 
   sidebar:
     width: 1/3

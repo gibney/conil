@@ -2,8 +2,9 @@ title: History
 icon: 📚
 
 columns:
+  # sidebar left
   left:
-    width: 1/2
+    width: 1/4
     sections:
       drafts:
         extends: sections/posts
@@ -15,8 +16,24 @@ columns:
         label: In Review
         status: unlisted
 
-  right:
+  # main
+  main:
     width: 1/2
+    fields:
+      heading:
+        type: text
+      subheading:
+        type: text
+      lead:
+        type: markdown
+        size: small
+      text:
+        type: markdown
+        size: large
+
+  # sidebar right
+  right:
+    width: 1/4
     sections:
       listed:
         extends: sections/posts

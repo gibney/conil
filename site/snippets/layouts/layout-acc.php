@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="container mx-auto px-4 bg-orange-100">
+    <div class="container mx-auto px-4">
 
         <!-- TODO header - Insert the menus required from the templates/file -->
         <header class="header">
