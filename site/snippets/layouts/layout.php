@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <div class="container mx-auto px-4">
+    <div class="container mx-auto px-4 bg-white">
 
         <header class="header">
         <?php 

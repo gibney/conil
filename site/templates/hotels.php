@@ -4,7 +4,7 @@
 
         <?php slot() ?>
             <?php foreach ($page->children()->listed()->shuffle() as $list) : ?>
-                <div class="bg-white border border-gray-200 rounded-lg shadow">
+                <div class="bg-gray-100 border border-gray-200 rounded-lg shadow">
                     <a href="<?= $list->url() ?>" target="_blank">
                         <?= $list->image() ?>
                     </a>
@@ -12,6 +12,9 @@
                         <a href="<?= $list->link() ?>" target="_blank">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900"> <?= $list->title() ?></h5>
                         </a>
+
+                        <hr class="h-px my-2 bg-gray-200 border-0">
+
                         <p class="mb-1 text-base font-normal text-orange-700">
 
                             <?php if ($list->star()->isNotEmpty()) : ?>
@@ -39,7 +42,7 @@
 
                         </p>
 
-                        <p class="mb-1 text-base font-normal text-gray-700">
+                        <p class="mb-4 text-base font-normal text-gray-700">
                             <?= $list->intro() ?>
                         </p>
                         <a href="<?= $list->link() ?>" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-orange-600 rounded-lg hover:bg-orange-600 focus:ring-4 focus:outline-none focus:ring-orange-300" target="_blank">

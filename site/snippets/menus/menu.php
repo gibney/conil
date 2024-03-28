@@ -1,4 +1,4 @@
-<nav class="menu  p-8  bg-slate-400 text-white ">
+<nav class="menu  p-8  bg-cyan-800 text-white ">
     <?php snippet('menus/menu-lang') ?>
     <a class="logo" href="<?= $site->url() ?>"><span class="text-left font-bold text-5xl"><?= $site->title() ?></span></a>
     <div class="text-right">
